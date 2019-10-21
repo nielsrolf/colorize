@@ -13,6 +13,6 @@ echo "alias colorize=$(pwd)/colorize">>~/.zshrc
 ```
 
 ##
-![VSC](https://github.com/nielsrolf/colorize/demo/vsc.png)
-![iterm](https://github.com/nielsrolf/colorize/demo/iterm.png)
-![picker](https://github.com/nielsrolf/colorize/demo/picker.png)
+![VSC](https://github.com/nielsrolf/colorize/master/demo/vsc.png)
+![iterm](https://github.com/nielsrolf/colorize/master/demo/iterm.png)
+![picker](https://github.com/nielsrolf/colorize/master/demo/picker.png)

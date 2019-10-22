@@ -10,7 +10,7 @@
 ## Installation:
 ```
 git clone git@github.com/nielsrolf/colorize.git
-echo "alias colorize=$(pwd)/colorize">>~/.zshrc
+echo "alias colorize=\"python $(pwd)/colorize/colorize.py\"">>~/.zshrc
 ```
 
 ##

@@ -4,7 +4,7 @@
 - iTerm2
 - oh-my-zsh
 - [iterm-tab-color](https://github.com/bernardop/iterm-tab-color-oh-my-zsh)
-- Peackock extension for VSC
+- Peacock extension for VSC
 
 
 ## Installation:
